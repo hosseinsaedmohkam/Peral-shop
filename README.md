@@ -7,16 +7,15 @@
 
 - Master : Parsa Ghorbanian 
 
-- Technologies Used : next.js ,zustand,mui,js, css, Html 
-
-- Created : 9/13/2025
+- Technologies Used : next.js , zustand, mui, js, css, Html 
+ 
+- Created : 12/10/2025
 
 - Role - Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/Hossein_saedmohkam.dev) and [linkedin](https://www.linkedin.com/in/Hossein-saedmohkam)
 
 
-## This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
