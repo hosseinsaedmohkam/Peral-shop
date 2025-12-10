@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f0ccd40d-24ab-4809-8c22-53604e5f88c5)
 
-![Image](https://github.com/user-attachments/assets/0c22637b-8308-4d3b-b945-a81ea7d4ba04)
+
 
 [Demo Project](https://peral-shop.vercel.app/)
 
