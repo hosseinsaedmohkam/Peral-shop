@@ -1,6 +1,9 @@
 ## Peral-shop
 
 
+![Image](https://github.com/user-attachments/assets/5f97d4dd-9e75-405c-a1e5-4ab03b6b611e)
+
+![Image](https://github.com/user-attachments/assets/f0ccd40d-24ab-4809-8c22-53604e5f88c5)
 [Demo Project](https://peral-shop.vercel.app/)
 
 - Developed by Hossein saedmohkam
