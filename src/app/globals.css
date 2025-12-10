@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+:root {
+  --app-bg: #1a1a1a;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  background-color: var(--app-bg);
+  min-height: 100vh;
+}
+
+/* سه نقطه لودینگ نرم */
+.dot {
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.group:hover .dot {
+  opacity: 1 !important;
+  animation: softLoading 1.6s infinite ease-in-out;
+}
+
+/* انیمیشن نرم لودینگ */
+@keyframes softLoading {
+  0% {
+    transform: translateY(4px);
+    opacity: 0.8;
+  }
+  20% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  40% {
+    transform: translateY(4px);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(4px);
+    opacity: 0.8;
+  }
+}
